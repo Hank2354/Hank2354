@@ -10,8 +10,7 @@ At the moment have a large project and dont update my GitHub (Temporarily)
 
 2)  DeliverPizzaApp and MusicAlbumApp - Test works for testing my skills of working with UI, using GCD and CoreData. 
 
-3)  PagingCollectionViewLayout - Small Turnkey solution for to solve collection paging problem in UIKit framework from Apple
+3)  PagingCollectionViewLayout - Small ready solution for to solve collection paging problem in UIKit framework from Apple
 
-4)  LEActivityIndicator - Collection custom activity indicators with wide customization, and user-friendly interface. (In development right now)
-This is framework will be loaded on cocoaPods after release 
+4)  LEActivityIndicator - Collection custom activity indicators with wide customization, and user-friendly interface. This is framework can be loaded with cocoaPods
 

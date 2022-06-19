@@ -6,7 +6,7 @@ LinkedIn: linkedin.com/in/hank3465
 
 At the moment have a large project and dont update my GitHub (Temporarily)
 
-1)  Money Safe - Turnkey solution for accounting of income and expenses with open source code. Without the use of third-party libraries, only built-in ones from Apple. The first developed project for testing the Viper architecture and developing CoreData skills
+1)  Money Safe - Pet-project for accounting of income and expenses with open source code. Without the use of third-party libraries, only built-in ones from Apple. The first developed project for testing the Viper architecture and developing CoreData skills
 
 2)  DeliverPizzaApp and MusicAlbumApp - Test works for testing my skills of working with UI, using GCD and CoreData. 
 

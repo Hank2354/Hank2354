@@ -1,8 +1,10 @@
 👋 Hi, I’m Vladislav, I am iOS developer.
 
-You can see several of my projects in my github profile
+![codewars](https://www.codewars.com/users/resly34/badges/large)
 
 LinkedIn: linkedin.com/in/hank3465
+
+You can see several of my projects in my github profile
 
 At the moment have a large project and dont update my GitHub (Temporarily)
 

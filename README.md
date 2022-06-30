@@ -1,18 +1,29 @@
-👋 Hi, I’m Vladislav, I am iOS developer.
+<h1>Hi there, I'm <a href="https://www.linkedin.com/in/hank3465/" target="_blank">Vladislav</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
+<p>
+    <a href="https://github.com/Hank2354" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@Hank2354-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
+    <a href="https://github.com/Hank2354" target="_blank"><img alt="GitHub" src="https://komarev.com/ghpvc/?username=Hank2354"></a>
+    <a href="https://www.linkedin.com/in/hank3465/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"></a>
+    <a href="https://stackoverflow.com/users/15883057/vladislav" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?style=flat-square&logo=Stack-Overflow&logoColor=white"></a>
+</p>
+
+<div>
+<img src="https://readme-typing-svg.herokuapp.com?color=%23FF9500&lines=iOS+Software+Engineer+since+2020"/>
 
 ![codewars](https://www.codewars.com/users/resly34/badges/large)
+</div>
 
-LinkedIn: linkedin.com/in/hank3465
 
-You can see several of my projects in my github profile
 
-At the moment have a large project and dont update my GitHub (Temporarily)
 
-1)  Money Safe - Pet-project for accounting of income and expenses with open source code. Without the use of third-party libraries, only built-in ones from Apple. The first developed project for testing the Viper architecture and developing CoreData skills
 
-2)  DeliverPizzaApp and MusicAlbumApp - Test works for testing my skills of working with UI, using GCD and CoreData. 
 
-3)  PagingCollectionViewLayout - Small ready solution for to solve collection paging problem in UIKit framework from Apple
+### Projects
 
-4)  LEActivityIndicator - Collection custom activity indicators with wide customization, and user-friendly interface. This is framework can be loaded with cocoaPods
+#### MoneySafe
+#### LEActivityIndicators
+#### PagingCollectionViewLayout
+
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 

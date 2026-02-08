@@ -1,5 +1,5 @@
 <h1>Hi there, I'm <a href="https://www.linkedin.com/in/hank3465/" target="_blank">Vladislav</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/></h1>
 
 <p>
     <a href="https://github.com/Hank2354" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-@Hank2354-181717?style=flat-square&logo=GitHub&logoColor=white"></a>

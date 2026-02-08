@@ -15,15 +15,5 @@
 </div>
 
 
-
-
-
-
-### Projects
-
-#### [MoneySafe](https://github.com/Hank2354/MoneySafe)
-#### [LEActivityIndicators](https://github.com/Hank2354/LEActivityIndicator)
-#### [PagingCollectionViewLayout](https://github.com/Hank2354/PagingCollectionViewLayout)
-
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
